@@ -1,0 +1,29 @@
+# Data
+UCI HAR Dataset/
+processed_data/
+*.zip
+*.npy
+*.csv
+*.txt
+
+# Models
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.envrc
+.direnv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
